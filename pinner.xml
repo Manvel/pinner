@@ -8,20 +8,20 @@
     <![CDATA[
       
       
-      <link href="//c9.io/manvel/barcamp/workspace/css/jquery-ui-1.9.2.custom.css" rel="stylesheet" media="screen">
-      <link href="//c9.io/manvel/barcamp/workspace/css/bootstrap.min.css" rel="stylesheet" media="screen">
-      <link href="//c9.io/manvel/barcamp/workspace/css/main.css" rel="stylesheet" media="screen">
+      <link href="css/jquery-ui-1.9.2.custom.css" rel="stylesheet" media="screen">
+      <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <link href="css/main.css" rel="stylesheet" media="screen">
       
       <script src="//talkgadget.google.com/hangouts/_/api/hangout.js?v=1.4"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/jquery-1.9.1.min.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/jquery-ui-1.9.2.custom.min.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/bootstrap.min.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/overlay.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/pinned.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/sharedgal.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/zoom.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/info.js"></script>
-      <script src="//c9.io/manvel/barcamp/workspace/js/main.js"></script>
+      <script src="js/jquery-1.9.1.min.js"></script>
+      <script src="js/jquery-ui-1.9.2.custom.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/overlay.js"></script>
+      <script src="js/pinned.js"></script>
+      <script src="js/sharedgal.js"></script>
+      <script src="js/zoom.js"></script>
+      <script src="js/info.js"></script>
+      <script src="js/main.js"></script>
       <div id='main'>
     	   <div class="header">Pinner</div>
            <div id='infoLine'>

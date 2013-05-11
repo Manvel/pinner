@@ -1,18 +1,14 @@
+#Pinner
+Is a Google Hangout application that allow to, load external images and pin it to different places on the face. Zoom/Manage and share the pinned image.
 
-    ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#installation
+- Host Files.
+- Go to ([https://code.google.com/apis/console](https://code.google.com/apis/console))
+- Create project
+- Switch on Google+ Hangouts API
+- Navigate to Hangouts tab
+- Paste Application URL (hangout.xml)
+- Save and click on Enter a hangout
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+You can check the application itself ([here](https://plus.google.com/hangouts/_?gid=619013042864)).

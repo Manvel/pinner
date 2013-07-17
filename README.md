@@ -1,5 +1,7 @@
 #Pinner
 Is a Google Hangout application that allow to, load external images and pin it to different places on the face. Zoom/Manage and share the pinned image.
+You can check screenshots in my blog:
+([Pinner](http://saroyanm.blogspot.com/2013/05/pinner-application-for-google-hangout.html))
 
 #installation
 - Host Files.
